@@ -1,2 +1,3 @@
 # Hello-One
-终于第一个GitHub仓库！
+Finally I create my first Github's repository！
+I love:cat:and:dog:.
